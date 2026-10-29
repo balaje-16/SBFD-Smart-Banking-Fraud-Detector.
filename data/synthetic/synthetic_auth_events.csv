@@ -1,0 +1,8 @@
+event_id,account_id,timestamp,event_type,device_id,ip_address,location,status,detail
+AUTH_0001,ACC_VICTIM_01,2026-01-15 02:10:14,LOGIN_FAILED,DEV_BOT_0101,194.26.29.112,"St. Petersburg, RU",FAILURE,Invalid password attempt
+AUTH_0002,ACC_VICTIM_01,2026-01-15 02:10:47,LOGIN_FAILED,DEV_BOT_0101,194.26.29.112,"St. Petersburg, RU",FAILURE,Invalid password attempt
+AUTH_0003,ACC_VICTIM_01,2026-01-15 02:11:17,LOGIN_FAILED,DEV_BOT_0101,194.26.29.112,"St. Petersburg, RU",FAILURE,Invalid password attempt
+AUTH_0004,ACC_VICTIM_01,2026-01-15 02:11:41,LOGIN_FAILED,DEV_BOT_0101,194.26.29.112,"St. Petersburg, RU",FAILURE,Invalid password attempt
+AUTH_0005,ACC_VICTIM_01,2026-01-15 02:15:41,LOGIN_SUCCESS,DEV_UNKNOWN_9999,194.26.29.112,"St. Petersburg, RU",SUCCESS,Password matched after repeated failures (New Device)
+AUTH_0006,ACC_VICTIM_01,2026-01-15 02:17:41,SECURITY_PHONE_UPDATED,DEV_UNKNOWN_9999,194.26.29.112,"St. Petersburg, RU",SUCCESS,Recovery phone number modified
+AUTH_0007,ACC_VICTIM_01,2026-01-15 02:20:41,BENEFICIARY_ADDED,DEV_UNKNOWN_9999,194.26.29.112,"St. Petersburg, RU",SUCCESS,New wire destination added: Offshore Crypto Vault
